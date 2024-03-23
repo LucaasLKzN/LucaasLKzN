@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LucaasLKzN
-- 👀 I’m interested in  começar a programar webs e aplicativos 
-- 🌱 I’m currently learning javascrift mas estou bem no começo 
-- 💞️ I’m looking to collaborate on em projetos que eu possa aprender e ajudar
+- 👀 I’m interested in start programming web pages
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
 
 
 <!---
