@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LucaasLKzN
 - 👀 I’m interested in start programming web pages
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and PYTHON
+- 
 
 
 <!---
